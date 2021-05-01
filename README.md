@@ -1,1 +1,1 @@
-# termialgame
+# terminalgame
